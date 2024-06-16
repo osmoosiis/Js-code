@@ -1,2 +1,2 @@
 # Js-code
-Learning module based on @chaiwithcode js yt playlist 
+Learning module based on @chaiaurcode js yt playlist 
